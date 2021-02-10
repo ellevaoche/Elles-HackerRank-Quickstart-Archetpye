@@ -1,4 +1,4 @@
-# elle-hackerrank-quickstart-archetype
+# Elles HackerRank Quickstart Archetpye
 
 ## Summary
 
@@ -12,7 +12,7 @@ The project contains a customized Maven archetype (Java8, Junit5) which I use as
 To install the archetype in your local maven repository execute the following commands:
 
 ```bash
-    git clone https://github.com/ellevaoche/elle-hackerrank-quickstart-archetype.git
+    git clone https://github.com/ellevaoche/Elles-HackerRank-Quickstart-Archetpye.git
     cd hackerrank-quickstart-archetype
     mvn clean install
 ```
