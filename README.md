@@ -19,7 +19,7 @@ To install the archetype in your local maven repository execute the following co
 
 ## Create a project based on my Archetype
 
-To generate project from the custom archetype use one of the following methods:
+To generate a project from the custom archetype use one of the following methods:
 
 ### Interactive mode
 
