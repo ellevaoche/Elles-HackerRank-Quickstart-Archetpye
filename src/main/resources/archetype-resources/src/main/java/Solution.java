@@ -5,7 +5,7 @@ package ${package};
 
 // Empty HackerrankSolution Project.
 
-public class MainApp {
+public class Solution {
     public static void main(String[] args) {
         System.out.println("Hello Hackerrank!");
     }
